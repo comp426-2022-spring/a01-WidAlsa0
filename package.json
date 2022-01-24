@@ -1,0 +1,22 @@
+{
+  "name": "comp-426",
+  "version": "1.0.0",
+  "description": "This is a project to build a server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a01-WidAlsa0.git"
+  },
+  "author": "Wid Alsadoon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-WidAlsa0/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-WidAlsa0#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
