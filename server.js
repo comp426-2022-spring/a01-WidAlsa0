@@ -20,7 +20,9 @@ fs.readFile("./www/index.html", "utf8", (err, data) => {
 if (err) {
   console.error(err)
   return
-  process.exit(1)
+  process.exit(7)
+} else {
+  null
 }
 // Define a const `server` as an arrow function using http.createServer. 
 // Use the documentation for the node.js http module. 
